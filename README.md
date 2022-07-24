@@ -6,8 +6,11 @@ $ rosdep install --from-paths src --ignore-src -r -y
 # for noetic distro
 
 $ sudo apt-get install ros-noetic-moveit
+
 $ sudo apt-get install ros-noetic-joint-state-publisher ros-noetic-joint-state-publisher-gui
+
 $ sudo apt-get install ros-noetic-gazebo-ros-control joint-state-publisher
+
 $ sudo apt-get install ros-noetic-ros-controllers ros-noetic-ros-control
 
 # Configuring Arduino with ROS
